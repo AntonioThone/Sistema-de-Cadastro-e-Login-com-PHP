@@ -23,7 +23,7 @@ Um sistema simples e funcional de registo e autenticação de utilizadores desen
 ## Como Executar o Projeto Localmente
 
 1. Clone o repositório:
-   git clone https://github.com/antoniothone/cadastro-login-php.git
+   git clone https://github.com/AntonioThone/cadastro-login-php.git
    
 2. Coloque a pasta dentro do diretório do Apache:Bash/var/www/html/meu_projeto
 3. Configure o banco de dados:
