@@ -50,3 +50,10 @@ cadastro-login-php/
 ├── database.sql
 ├── README.md
 └── .gitignore
+
+
+## Observações
+
+Projeto desenvolvido para aprendizagem.
+Foco em boas práticas de segurança (hash de senhas e Prepared Statements).
+Interface responsiva e clean.
