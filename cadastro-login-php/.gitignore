@@ -1,5 +1,7 @@
 # Configurações sensíveis
+config.php
 *.env
+config.example.php
 
 # Pastas temporárias
 uploads/
