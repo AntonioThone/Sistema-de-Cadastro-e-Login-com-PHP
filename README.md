@@ -32,8 +32,8 @@ Um sistema simples e funcional de registo e autenticação de utilizadores desen
 
 4. Edite o ficheiro config.php com as suas credenciais do MySQL.
 5. Acesse no navegador:
-  - Cadastro: http://localhost/meu_projeto/register.php 
-  - Login: http://localhost/meu_projeto/login.php
+  - Cadastro: http://localhost/cadastro-login-php/register.php 
+  - Login: http://localhost/cadastro-login-php/login.php
 
 
 ## Estrutura do Projeto
